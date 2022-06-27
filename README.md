@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+You can play the game at: https://aytacyu.github.io/github-games/
 To play tghjkhe game: jkhjk
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
